@@ -20,7 +20,7 @@ requirements.txt
    Train the model and save as a  `.h5` file with `python3 classification.py`   
 ---
 ## Introduction
-*TAKEN FROM MY PERSONAL WEBSITE; READ THE PROPERLY FORMATTED VERSION [HERE](https://example.com). THIS PROJECT IS NOT COMPLETE, NEITHER IS THIS README*
+*TAKEN FROM MY PERSONAL WEBSITE; READ THE PROPERLY FORMATTED VERSION [HERE](https://www.lachlanharris.dev/blog/skin-cancer-ai). THIS PROJECT IS NOT COMPLETE, NEITHER IS THIS README*
 
 Skin cancer is the third most common form of cancer<sup>[[1](https://www.canceraustralia.gov.au/cancer-types/melanoma-skin/melanoma-skin-statistics)]</sup> in the land down under, with hundreds of deaths likely stemming from our culture of "she'll be right" when it comes to sun safety. Skin cancer, for a very long time, has been diagnosed visually, but involves a convoluted process of clinical screenings, dermoscopic analysis, biopsies & histopathological examinations.
 
